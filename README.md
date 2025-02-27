@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vasuki028
 - 👀 I’m currently learning web development , this is an interesting topic not gonna lie!
 - 🌱 I’m also learning data structures and algorithms , it sure gives a tough time to everybody I believe , but yea it is what it is guys , success comes with sacrifice.
-- 🌼 I know the basics in Java ,C and python and have a good hold over C++.
+- 🌼 I'm familiar with Java ,C, JavaScript and python and have a good hold over C++.
 - 📫 How to reach me sejivasko@gmail.com/ vasukib28@gmail.com
 - 🔹 My LinkedIn profile : https://www.linkedin.com/in/vasuki-b-0568a92a5/
