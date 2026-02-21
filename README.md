@@ -1,6 +1,11 @@
+<img width="740" height="740" justify-content="center" alt="image" src="https://github.com/user-attachments/assets/a9a5825b-6e98-4f07-b984-39ca270392a3" />
+
 Hi there! My name is Vasuki and I am a final-year CS undergrad from India.
 My primary skillset is Web Development and I am venturing out into the world of DevOps lately
 You can contact me via email : vasukib28@gmail.com
+I’m currently looking for opportunities as a Software Development Engineer, Web Developer, Cloud/DevOps Engineer, where I can contribute, learn, and grow alongside passionate engineers.
+
+💡 Always curious | 🚀 Always building | 🌍 Always learning
 
 
 # 💻 Tech Stack:
