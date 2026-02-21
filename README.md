@@ -1,4 +1,5 @@
-<img width="740" height="740" justify-content="center" alt="image" src="https://github.com/user-attachments/assets/a9a5825b-6e98-4f07-b984-39ca270392a3" />
+<img width="382" height="480" alt="image" src="https://github.com/user-attachments/assets/bad7d659-2f10-4ac5-ad5e-97f8a9cde31f" />
+
 
 Hi there! My name is Vasuki and I am a final-year CS undergrad from India.
 My primary skillset is Web Development and I am venturing out into the world of DevOps lately
